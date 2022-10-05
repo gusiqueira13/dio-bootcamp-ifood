@@ -1,2 +1,2 @@
-# dio-bootcamp-ifood
-Repositório para projetos do bootcamp do ifood
+# Bootcamp Ifood
+Repositório para projetos do Bootcamp do Ifood
